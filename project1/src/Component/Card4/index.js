@@ -12,15 +12,15 @@ export default function Card4() {
         <CardMedia
           component="img"
           height="140"
-          image="https://mui.com/static/blog/material-ui-is-now-mui/intro.png"
+          image="https://aptude.com/wp-content/uploads/2021/11/powerbi_logo-1.png"
           alt="green iguana"
         />
         <CardContent>
           <Typography gutterBottom variant="h6" component="div">
-          Material UI
+          Power BI
           </Typography>
           <Typography variant="body2" color="text.secondary">
-          Material UI is an open-source React component library that implements Google's Material Design. It includes a comprehensive collection of prebuilt components that are ready for use in production right out of the box.
+          Power BI is a collection of software services, apps, and connectors that work together to turn your unrelated sources of data into coherent, visually immersive, and interactive insights. Your data might be an Excel spreadsheet, or a collection of cloud-based and on-premises hybrid data warehouses.
           </Typography>
         </CardContent>
       </CardActionArea>

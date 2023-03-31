@@ -12,15 +12,16 @@ export default function Card6() {
         <CardMedia
           component="img"
           height="160"
-          image="https://res.cloudinary.com/practicaldev/image/fetch/s--mY622Qoc--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/398a310kjdiv647cld1y.jpg"
+          image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZGn1dvLqKoo7iG84RAAD5LWnqqHuarfS1Yw&usqp=CAU"
           alt="green iguana"
         />
         <CardContent>
           <Typography gutterBottom variant="h6" component="div">
-          ESJavaScript
+          Java
           </Typography>
           <Typography variant="body2" color="text.secondary">
-          ESJavaScript is a JavaScript standard intended to ensure the interoperability of web pages across different browsers. It is standardized by ES International in the document ESJavaScript.
+          
+Java is a widely used object-oriented programming language and software platform that runs on billions of devices,including notebook computers,mobile devices,gaming consoles,medical devices and many others.The rules and syntax of Java are based on the C and C++ languages.
           </Typography>
         </CardContent>
       </CardActionArea>
