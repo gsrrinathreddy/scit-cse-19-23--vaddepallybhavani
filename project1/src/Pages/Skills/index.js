@@ -40,6 +40,7 @@ import Card2 from '../../Component/Card2';
 import Card3 from '../../Component/Card3';
 import Card4 from '../../Component/Card4';
 import Card5 from '../../Component/Card5';
+import Card6 from '../../Component/Card6';
 import { Grid } from '@mui/material';
 export default function Skills(){
   return(
@@ -59,6 +60,9 @@ export default function Skills(){
       </Grid>
       <Grid item xs={4}>
       <Card5/>
+      </Grid>
+      <Grid item xs={4}>
+      <Card6/>
       </Grid>
       </Grid>
     </>
